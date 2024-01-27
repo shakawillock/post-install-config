@@ -53,7 +53,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>7. Configure SLAs</p>
 <p>
-  <img src="https://i.imgur.com/XHQ5lng.png" height="80%" width="80%" alt="Configuring SLAs"/>
+  <img src="https://i.imgur.com/pn0LC4t.png" height="80%" width="80%" alt="Configuring SLAs"/>
 </p>
 <br />
 
